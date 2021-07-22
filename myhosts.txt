@@ -1,2 +1,2 @@
-0.0.0.0 *.youtube.com
-0.0.0.0 networkchuck.com
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
