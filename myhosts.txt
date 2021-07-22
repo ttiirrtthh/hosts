@@ -1,1 +1,2 @@
 0.0.0.0 bitwarden.com
+0.0.0.0 netflix.com
