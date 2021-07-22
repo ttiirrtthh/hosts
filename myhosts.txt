@@ -1,1 +1,2 @@
 0.0.0.0 m.youtube.com
+0.0.0.0 networkchuck.com
